@@ -8,4 +8,4 @@
 
 ## Progress
 
-### Attached [here](https://github.com/nivethagnan/SOFE3650U-Final-Project/tree/main/Project%20Progress) is our progress report which includes the use case diagram, along with the quality attributes and system constraints that pertain to our project. 
+### Attached [here](https://github.com/nivethagnan/SOFE3650U-Final-Project/tree/main/Project%20Progress) is our progress report which includes the use case diagram, along with the quality attributes and system constraints that pertain to our application. 
