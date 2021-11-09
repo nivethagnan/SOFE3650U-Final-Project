@@ -4,5 +4,5 @@ This folder contains the project progress report which includes our use case dia
 
 ## Contents
 
-* [Project Progress Report](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/Project%20Progress%20Report)
+* [Project Progress Report](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/Project%20Progress%20Report_GRP8.pdf)
 * [Use Case Diagram](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20use%20case.png)
