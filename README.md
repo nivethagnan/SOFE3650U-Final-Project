@@ -18,5 +18,5 @@ Our final project is going to be based on a previous software project where we i
       * [Quality Attribute Scenarios](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20quality%20attribute.png)
       * [Use Case Diagram](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20use%20case.png)
  * [Iteration 1](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Iteration%201/Iteration%201.md)
- * [Iteration 2](hhttps://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Iteration%202/Iteration%202.md)
+ * [Iteration 2](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Iteration%202/Iteration%202.md)
  * [Iteration 3](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Iteration%203/Iteration%203.md)
