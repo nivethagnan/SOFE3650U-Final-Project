@@ -25,6 +25,13 @@ The elements of the system that will be refined are display order history, we wi
 
 ## Step 5: Instantiate Architectural  Elements, Allocate  Responsibilities, and Define Interfaces
 
+| Design Decisions and Locations | Rationale and Assumptions |
+| --- | --- |
+| Create only an initial domain model | The primary use cases need to be outlined and defined but only in an initial domain model. |
+| Map the system use case | We need to identify the objects that are all in our system use cases. |
+| Associate frameworks with a module in the data layer | As spoken about earlier, we will be using the Spring and Hibernate framework hand in hand and in doing so we will be able to discuss previous modules. |
+| Decompose the domain objects across the layers to identify layer-specific modules with an explicit interface | This will ensure that all the modules are being supported and all the functionalities will be identified. Making sure that it follows CRN-3, where all the concerns are that the server load will be divided of busy to non busy across different time zones. |
+
 ## Step 6: Sketch Views and Record Design Decisions 
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal
