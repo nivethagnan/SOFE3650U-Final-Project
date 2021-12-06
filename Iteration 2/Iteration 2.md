@@ -33,9 +33,66 @@ The elements of the system that will be refined are display order history, we wi
 | Decompose the domain objects across the layers to identify layer-specific modules with an explicit interface | This will ensure that all the modules are being supported and all the functionalities will be identified. Making sure that it follows CRN-3, where all the concerns are that the server load will be divided of busy to non busy across different time zones. |
 
 ## Step 6: Sketch Views and Record Design Decisions 
+
 ![iteration 2 figure 1](https://user-images.githubusercontent.com/80362439/144938796-1e8e8238-d453-425d-9ece-3e3a93a30d1d.png)
+Figure 1: Initial Domain Model
 
+![iteration 2 figure 2](https://user-images.githubusercontent.com/80362439/144938871-fcf3d36c-514a-4c5f-b75b-24e9afc0ad60.png)
+Figure 2: Domain Objects Associated with Use Cases
 
+![iteration 2 figure 3](https://user-images.githubusercontent.com/80362439/144938914-20e5df84-a2aa-48f2-a596-fa6e72126f87.png)
+Figure 3: Extended Module View
+
+The responsibilities of the the above figure are in the table below:
+
+| Element | Responsibility |
+| --- | --- |
+| Network Status | Gets network status from users via the mobile application. |
+| Network Status Received | Receives the requested data from the user. |
+| Performance Check | Checks performance from the user. |
+| Performance Monitor | Monitors performance across all users. |
+| Time Server Connector | Responsible for persistence operations related to the time server. |
+| Event Data Mapper | Responsible for persistence operations related to the events. |
+
+USE CASE 1: Monitor App Status
+The following figure shows us the initial sequence diagram for UC-1. It shows how the user will interact and access the app and the app will work in turn its performance and efficiency to the users needs. When launched, a loading screen will occur, and then connect the user to the application which holds the database for all the stores that the user will browse through. 
+
+![iteration 2 figure 4](https://user-images.githubusercontent.com/80362439/144939180-b44a5783-0e3b-4982-b6d5-82560997e3d2.png)
+Figure 4: Sequence Diagram for UC-1
+
+| Element | Responsibility |
+| --- | --- |
+| Mobile Application | Application that is being accessed by users. |
+| Request performance | Send a server request while the user has launched the application. |
+| Request server performance | Send a request to the network regarding the server. |
+| Fetch performance | Receive the fulfilled performance requests. |
+| Performance Summary | Get a summary of all performance inquiries. |
+
+USE CASE 2: User Authentication
+The next figure shows the initial sequence for UC-2. It shows the user authentication and how the user would access the application via logging in. This example shows the application being accessed by a mobile device which connects to the server which holds the database with their personal information. The data is then sent back to the actor.
+
+![iteration 2 figure 5](https://user-images.githubusercontent.com/80362439/144939491-6b13876d-5164-4239-8f8a-e7e11665fd62.png)
+Figure 5: Sequence Diagram for UC-2
+
+| Element | Responsibility |
+| --- | --- |
+| Login page | Users can send login info by putting in credentials. |
+| Authentication | Users will put personal credentials and the system will check for validity of credentials. |
+| Authentication message | If user can log in, will return successful login, and if can’t, will return error. |
+| Login Database | Will have login details stored if user needs it changed. |
+
+USE CASE 13: Register
+The next figure shows the initial sequence for UC-13. It shows the register processing the payment and how the users final decision will take place after ordering. This example shows the application being accessed in the application, and then processing the order. The data is then finally sent back to the actor. 
+
+![iteration 2 figure 6](https://user-images.githubusercontent.com/80362439/144939711-cd56dba8-c6f0-45ec-b2c9-4e09af3ec62b.png)
+Figure 6: Sequence Diagram for UC-13
+
+| Element | Responsibility |
+| --- | --- |
+| Order Page | User will enter order based on items in database. |
+| Process Payment | Will have payment processed through the server and application and will request network validation while logged into the application. |
+| Confirmation Process | Request recent order info as well as displays most recent order. |
+| Register Process | Request order history, and order tracking and order message. |
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal
 
