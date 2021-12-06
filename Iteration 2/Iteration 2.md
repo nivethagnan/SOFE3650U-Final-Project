@@ -96,3 +96,25 @@ Figure 6: Sequence Diagram for UC-13
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal
 
+The designs made in this iteration had guided us towards an initial understanding of the efficiency and functionality and how it is used through the system. The primary use cases that were identified and the modules alongside them had proved to be very beneficial. As we had made our sketches and understood the design process, we had a new architectural concern, and will be added to the Kanban board as shown below.
+
+| Not Addressed | Partially Addressed | Completely Addressed | Design Decisions made during the iteration |
+| --- | --- | --- | --- |
+| | | UC-1 | Diagrams have been created to support this use case in this iteration. |
+| | | UC-2 | Modules across layers and preliminary interfaces to support this use case have been identified. |
+| | UC-4 | | Use cases have been briefly spoken about, but not the primary focus in this iteration. |
+| | | UC-13 | Modules across layers and preliminary interfaces to support this use case have been identified. |
+| | | CRN-1 | Additional technology is identified compatibility. |
+| | | CRN-2 | Modules associated with all the use cases are identified to make them accessible to users. |
+| | CRN-3 | | Additional knowledge regarding this is discussed with the team. |
+| | | QA-1 | Relates to associated use case (UC-1) which has been described in this iteration. Performance will be monitored. |
+| | QA-2 | | Relates to associated use cases (UC-1, UC-13) which have been described in this iteration. Customers will have access to a database of their saved information and purchase history. |
+| | QA-3 | | No relevant design decisions were made in this iteration. |
+| | | QA-4 | Relates to associated use case (UC-2) which has been described in this iteration. Will ensure the user has permissions to access their login information. |
+| QA-5 | | | Not addressed in this iteration |
+| QA-6 | | | Not addressed in this iteration |
+| QA-7 | | | Not addressed in this iteration |
+| | CON-1 | | Identified modules relating to the issue have been investigated. |
+| | CON-2 | | Modules for accessing security information and user information were identified in this iteration via UC-2,UC-1. |
+| CON-4 | | | No relevant design decisions have been made so far in this iteration. |
+
