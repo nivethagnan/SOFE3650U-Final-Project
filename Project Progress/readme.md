@@ -4,7 +4,9 @@ This folder contains the project progress report which includes our use case dia
 
 ## Contents
 
-* [Use Case Diagram](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20use%20case.png)
-* [Quality Attribute Scenarios](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20quality%20attribute.png)
-* [Constraints](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20constraints.png)
 * [Architectural Concerns](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20concerns.png)
+* [Constraints](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20constraints.png)
+* [Quality Attribute Scenarios](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20quality%20attribute.png)
+* [Use Case Diagram](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20use%20case.png)
+
+
