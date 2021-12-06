@@ -7,10 +7,7 @@ Iteration 2 report pdf can be viewed [here](https://github.com/nivethagnan/SOFE3
 | Category | Details |
 | --- | --- |
 | Design Purpose | The purpose is to produce a detailed design to allow the construction of the application in the most efficient manner |
-| Primary Functional requirements | The primary use cases we will be using will be the following:                                                                             UC-1: Monitoring the Network Status 
-UC-2: Detecting Faults in the Network 
-UC-8: Displaying information 
-UC-10: User Authentication |
+| Primary Functional requirements | The primary use cases we will be using will be the following: UC-1: Monitoring the Network Status, UC-2: Detecting Faults in the Network, UC-8: Displaying information, UC-10: User Authentication |
                      
 
 ## Step 2: Establish Iteration Goal by Selecting Drivers
