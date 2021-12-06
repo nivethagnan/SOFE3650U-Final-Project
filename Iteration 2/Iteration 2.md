@@ -33,6 +33,9 @@ The elements of the system that will be refined are display order history, we wi
 | Decompose the domain objects across the layers to identify layer-specific modules with an explicit interface | This will ensure that all the modules are being supported and all the functionalities will be identified. Making sure that it follows CRN-3, where all the concerns are that the server load will be divided of busy to non busy across different time zones. |
 
 ## Step 6: Sketch Views and Record Design Decisions 
+![iteration 2 figure 1](https://user-images.githubusercontent.com/80362439/144938796-1e8e8238-d453-425d-9ece-3e3a93a30d1d.png)
+
+
 
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal
 
