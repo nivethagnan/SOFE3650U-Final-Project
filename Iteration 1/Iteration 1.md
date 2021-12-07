@@ -14,14 +14,7 @@ In this step of the ADD method, we will review the inputs and show which require
 
 ## Step 2: Establish Iteration Goal by Selecting Drivers
 
-QA-1: Performance
-QA-3: Modifiability
-QA-4: Security
-QA-5: Interoperability
-QA-6: Availability
-CON-2: Application must be accessible to the public. This cannot interfere with existing users’ security information.
-CON-3: Decreased bandwidth for user convenience without affecting overall performance
-CRN-2: App suitable for customers across all devices
+QA-1: Performance, QA-3: Modifiability, QA-4: Security, QA-5: Interoperability, QA-6: Availability, CON-2: Application must be accessible to the public. This cannot interfere with existing users’ security information, CON-3: Decreased bandwidth for user convenience without affecting overall performance, CRN-2: App suitable for customers across all devices
 
 ## Step 3: Choose One or More Elements of the System to Refine
 
