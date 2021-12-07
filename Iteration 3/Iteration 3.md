@@ -1,6 +1,6 @@
 # Iteration 3: Addressing Quality Attribute Scenario Driver (QA-6)
 
-Iteration 3 report pdf can be viewed [here]()
+Iteration 3 report pdf can be viewed [here](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Iteration%203/Iteration%203.pdf)
 
 ## Step 2: Establish Iteration Goal by Selecting Drivers
 
