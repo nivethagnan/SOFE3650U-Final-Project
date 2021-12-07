@@ -6,7 +6,9 @@ Iteration 2 report pdf can be viewed [here](https://github.com/nivethagnan/SOFE3
 
 The goal of this iteration is to address the concern of identifying structures and to support the primary functions:
 
-UC-1: Monitor App Status, UC-2: User Authentication, UC-13: Register
+* UC-1: Monitor App Status
+* UC-2: User Authentication
+* UC-13: Register
 
 ## Step 3: Choose One or More Elements of the System to Refine
 
