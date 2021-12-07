@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Our final project is going to be based on a previous software project where we implemented a grocery shopping application called Smartshop. Smartshop was made with the goal to give customers a more convenient and easier shopping experience during COVID-19. 
+Our final project is going to be based on a previous software project where we implemented a grocery shopping application called Smartshop. Smartshop was made with the goal to give customers a more convenient and easier shopping experience during COVID-19. Our project goes for three different iterations; Iteration 1: Establishing an Overall System Structure, Iteration 2: Identifying Structures to Support Primary Functionality, and Iteration 3: Addressing Quality Attribute Scenario Driver (QA-6). 
 
 ## Table of contents
  * [Project Proposal](https://github.com/nivethagnan/SOFE3650U-Final-Project/tree/main/Project%20Proposal)
