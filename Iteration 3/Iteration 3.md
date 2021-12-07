@@ -39,7 +39,7 @@ Figure 2: Sequence Diagram
 The design decisions made in this iteration impacted QA-3 and QA-1, understanding of the efficiency and functionality and how it is used through the system. Drivers that were addressed in iteration 1 and 2 were not repeated in this table.
 
 | Not Addressed | Partially Addressed | Completely Addressed | Design Decisiosn made during this Iteration | 
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | | | QA-1 | A main separate node that was used in this iteration helped separate the servers preventing failures in the application. |
 | | QA-2 | | No decisions made |
 | | QA-3 | | The node used along with the receiver/balancer makes sure there are no possibility of failures in the system. |
