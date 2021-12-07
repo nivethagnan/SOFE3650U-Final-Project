@@ -4,7 +4,7 @@ Iteration 3 report pdf can be viewed [here](https://github.com/nivethagnan/SOFE3
 
 ## Step 2: Establish Iteration Goal by Selecting Drivers
 
-QA-6  quality  attribute  scenario: 
+[QA-6  quality  attribute  scenario:](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20quality%20attribute.png) 
 A glitch can occur in the server database not processing any potential payment. The server will fix itself upon terminating the order and the application and then reopening it to clear cache, or will repair itself within 30 seconds.
 
 ## Step 3: Choose One or More Elements of the System to Refine
