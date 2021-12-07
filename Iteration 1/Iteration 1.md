@@ -45,5 +45,47 @@ In this step of the ADD method, we will review the inputs and show which require
 | Implement a module dedicated to deploying data in the Service application reference architecture | Ensures user’s will still be receiving information/notifications regarding their orders even if they closed the app. This will further facilitate the achievement of QA-3. |
 
 ## Step 6: Sketch views and Record Design Decisions 
+
+![unnamed (2)](https://user-images.githubusercontent.com/80362439/144951737-a9a45114-e224-4f1c-8d45-d2f4f19805f4.png)
+Figure 1: Module View
+
+| Element | Responsibility |
+| --- | --- |
+| Presentation CS | This layer contains modules that control user interaction and use case control flow |
+| Data CS | This layer contains modules that are responsible for communication with the server |
+| Cross-cutting CS | This “layer” includes modules with functionality that goes across different layers, such as security |
+| UI modules | These modules render the user interface and receive user inputs |
+| Communication modules CS | These modules consume the services provided by the application running on the server side |
+| Services SS | This layer contains modules that expose services that are consumed by the clients |
+| Data SS | This layer contains modules that are responsible for data persistence |
+| Cross-cutting SS | These modules expose services that are consumed by the clients |
+| Services interfaces SS | These modules expose services that are consumed by the clients |
+| DB access module | This module is responsible for persistence of business entities (objects) into the relational database. |
+
+![Screenshot (295)](https://user-images.githubusercontent.com/80362439/144952352-df94be24-128c-4092-8116-1021e66979eb.png)
+Figure 2: Initial deployment diagram
+
+| Element | Responsibility |
+| --- | --- |
+| User workstation | The user’s PC, which hosts the client side logic of the application |
+| Application server | The server that hosts server side logic of the application |
+| Database server | The server that hosts the relational database |
+
+| Relationship | Description |
+| --- | --- |
+| Between application server and database server | Communication with the database will be done using SQLite |
+
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal
+
+| Not Addressed | Partially Addressed | Completely Addressed | Design Decisions Made During the Iteration |
+| --- | --- | --- | --- |
+| | | UC-1 | Diagrams have been created to support this use case in this iteration. |
+| QA-2 | | | Not addressed in this iteration |
+| | | CON-1 | Identified modules relating to the issue being investigated |
+| | CON-3 | | The standard framework for building applications using Swift ensures portability |
+| CON-4 | | | No relevant design decisions have been made so far in this iteration. |
+| | CRN-2 | | The standard framework for building applications using Swift ensures portability |
+| | QA-3 | | Introduction of a module dedicated to deploying data on the client application that ensures users will be able to close the app without any disruptions to their order status. The details of this component and its interfaces have not yet been defined |
+
+
 
