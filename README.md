@@ -20,3 +20,7 @@ Our final project is going to be based on a previous software project where we i
  * [Iteration 1](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Iteration%201/Iteration%201.md)
  * [Iteration 2](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Iteration%202/Iteration%202.md)
  * [Iteration 3](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Iteration%203/Iteration%203.md)
+
+## Demo
+![114480098-d5a79f80-9bcf-11eb-8b78-ca7d30a23183](https://user-images.githubusercontent.com/80362439/144953491-63989ae0-5b86-4daf-81f7-84528eb88c9c.gif)
+
