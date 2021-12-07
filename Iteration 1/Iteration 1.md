@@ -37,6 +37,13 @@ CRN-2: App suitable for customers across all devices
 | Build the user interface of the client using Swift | The standard framework for building applications using Swift ensures portability (CON-3) and the developers are most familiar with. (CRN-2) | |
 
 ## Step 5:  Instantiate Architectural  Elements, Allocate  Responsibilities, and Define Interfaces
+
+| Design Decisions and Locations | Rationale |
+| --- | --- |
+| Remove local data sources in the Mobile Application reference architecture | With the network connection being reliable, SmartShop no longer needs to store data locally. Main communication with the server is controlled in the data layer and any other communication will be managed through local method calls |
+| Deploy a data, application and user tier for the mobile application system | In the SmartShop system, the three-tier architecture used are data, application and user. The application and user tier is where the customer’s data is processed, and the data tier is where the data is stored and managed. |
+| Implement a module dedicated to deploying data in the Service application reference architecture | Ensures user’s will still be receiving information/notifications regarding their orders even if they closed the app. This will further facilitate the achievement of QA-3. |
+
 ## Step 6: Sketch views and Record Design Decisions 
 ## Step 7: Perform Analysis of Current Design and Review Iteration Goal
 
