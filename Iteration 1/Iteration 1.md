@@ -9,10 +9,7 @@ In this step of the ADD method, we will review the inputs and show which require
 | Categories | Details |
 | --- | --- |
 | Design Purpose | The purpose is to produce a detailed design to allow the construction of the application in the most efficient manner |
-| Primary Functional requirements | The primary use cases we will be using will be the following * UC-1: Monitoring the Network Status
-* UC-2: Detecting Faults in the Network 
-* UC-8: Displaying information 
-* UC-10: User Authentication |
+| Primary Functional requirements | The primary use cases we will be using will be the following * UC-1: Monitoring the Network Status * UC-2: Detecting Faults in the Network * UC-8: Displaying information * UC-10: User Authentication |
 | Quality Attribute Scenarios |![Screenshot (294)](https://user-images.githubusercontent.com/80362439/144941781-92ad6d9b-498e-45a6-908f-916898268b9f.png) |
 
 ## Step 2: Establish Iteration Goal by Selecting Drivers
