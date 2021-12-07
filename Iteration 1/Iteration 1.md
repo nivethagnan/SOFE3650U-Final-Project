@@ -14,14 +14,14 @@ In this step of the ADD method, we will review the inputs and show which require
 
 ## Step 2: Establish Iteration Goal by Selecting Drivers
 
-* QA-1: Performance
-* QA-3: Modifiability
-* QA-4: Security
-* QA-5: Interoperability
-* QA-6: Availability
-* CON-2: Application must be accessible to the public. This cannot interfere with existing users’ security information
-* CON-3: Decreased bandwidth for user convenience without affecting overall performance
-* CRN-2: App suitable for customers across all devices
+* [QA-1: Performance](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20quality%20attribute.png)
+* [QA-3: Modifiability](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20quality%20attribute.png)
+* [QA-4: Security](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20quality%20attribute.png)
+* [QA-5: Interoperability](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20quality%20attribute.png)
+* [QA-6: Availability](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20quality%20attribute.png)
+* [CON-2: Application must be accessible to the public. This cannot interfere with existing users’ security information](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20constraints.png)
+* [CON-3: Decreased bandwidth for user convenience without affecting overall performance](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20constraints.png)
+* [CRN-2: App suitable for customers across all devices](https://github.com/nivethagnan/SOFE3650U-Final-Project/blob/main/Project%20Progress/smartshop%20concerns.png)
 
 ## Step 3: Choose One or More Elements of the System to Refine
 
